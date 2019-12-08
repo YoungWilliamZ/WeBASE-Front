@@ -215,6 +215,7 @@ export default {
         bandwidth: '带宽',
         blockHeight: '区块高度',
         pendingTransactions: '待打包的交易数',
+        transactionNumber: '交易数量',
         comparingByDay: '对比日数据',
         noMetrics: '未采集到数据或者数据为0',
         showByDay: '显示日数据',
